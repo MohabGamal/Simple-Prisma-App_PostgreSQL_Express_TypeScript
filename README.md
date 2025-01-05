@@ -1,1 +1,7 @@
-# Simple-Prisma-App_PostgreSQL_Express_TypeScript
+
+## `Technologies Used:`
+
+- TypeScript
+- express
+- postgreSQL
+- Prisma ORM
